@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What types of company documents need to be preserved permanently?",
+    "expected_keywords": ["Schedule I", "permanent", "register", "minutes", "memorandum"]
+  },
+  {
+    "question": "How long should books of accounts be retained according to Infosys policy?",
+    "expected_keywords": ["Schedule II", "eight years", "financial statements", "books of account"]
+  },
+  {
+    "question": "What happens if a document is relevant to a legal case?",
+    "expected_keywords": ["litigation", "legal department", "preserve", "until advised otherwise"]
+  },
+  {
+    "question": "Which documents must be kept for at least 3 years?",
+    "expected_keywords": ["three years", "communications", "Board", "committee meetings"]
+  },
+  {
+    "question": "Who is responsible for reviewing and updating the document retention policy?",
+    "expected_keywords": ["senior management", "Board", "review", "amendments"]
+  },
+  {
+    "question": "Are documents retained for longer if other laws require it?",
+    "expected_keywords": ["Applicable Laws", "longer period", "comply", "central legislations"]
+  },
+  {
+    "question": "What should be done in case of conflict between the policy and laws?",
+    "expected_keywords": ["Applicable Laws", "prevail", "conflict", "policy"]
+  },
+  {
+    "question": "Is there a business continuity plan considered in this policy?",
+    "expected_keywords": ["business continuity plan", "BCP", "document retention", "requirement"]
+  },
+  {
+    "question": "What is included in Schedule II of this policy?",
+    "expected_keywords": ["Schedule II", "books of account", "register of deposits", "disclosures", "attendance register"]
+  },
+  {
+    "question": "When was this policy last amended?",
+    "expected_keywords": ["April 18, 2024", "effective", "amended", "date"]
+  }
+]
